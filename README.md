@@ -34,4 +34,4 @@ Any assignment found copied/ plagiarized with other groups will not be graded an
 Please ensure timely submission as any submission post-deadline will not be accepted for evaluation
 Submission will not be evaluated if,
 it is submitted post-deadline, or,
-more than 2 files are submitted
+more than 2 files are submitted.
